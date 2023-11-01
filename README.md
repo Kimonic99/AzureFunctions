@@ -54,6 +54,3 @@ Ensure that your local development environment is properly set up to execute and
 
 For more details and advanced configurations, refer to the [Azure Functions documentation](https://docs.microsoft.com/en-us/azure/azure-functions/).
 
----
-
-Feel free to modify this README to suit your specific implementation or add more detailed instructions as needed.
